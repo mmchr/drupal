@@ -1,0 +1,31 @@
+/**
+ * Place your custom styles here.
+ */
+
+h2 a div {
+  font-size: 16px;
+}
+
+
+.logo img {
+  width: 45%;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  background-color: #27ae60;
+}
+
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand {
+  color: white;
+}
+
+
+.navbar-default {
+  background-color: #27ae60!important;
+  border: none!important;
+}
+
+a {
+  color: #27ae60;
+}

@@ -1,0 +1,15 @@
+global-styling:
+  css:
+    base:
+      css/base/base.css: {}
+    layout:
+      css/layout/layout.css: {}
+    component:
+      css/components/components.css: {}
+    theme:
+      includes/bootstrap/css/bootstrap.css: {}
+      css/style.css: {}
+    js:
+      js/modernizr.js: {}
+    dependencies:
+      core/jquery

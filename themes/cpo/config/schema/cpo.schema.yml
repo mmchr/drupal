@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the THEMETITLE theme.
+
+cpo.settings:
+  type: cpo_settings
+  label: 'cpo settings'

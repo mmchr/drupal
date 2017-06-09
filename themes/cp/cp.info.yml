@@ -1,0 +1,7 @@
+name: CP subtheme
+type: theme
+description: Subtheme from bootstrap
+core: 8.x
+base theme: bootstrap
+libraries:
+ -cp/global
